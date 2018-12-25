@@ -12,10 +12,11 @@ If you already have a GitHub account, login to your account
 5. Click on "Add a license" button to select a license for your repository
 6. Click on "Create a Repository" button to create your repository
 
-[Create a repository](https://help.github.com/articles/create-a-repo/)
+Help: [Create a repository](https://help.github.com/articles/create-a-repo/)
 
 ## Setup git on your computer
 1. Check if git is installed
+
 Open the terminal window
 ```console
 $ git --version
@@ -35,10 +36,11 @@ Check your name is set
 $ git config --global user.name
 ```
 Setup commit email address for all repositories on your computer
+
 To keep your email address hidden when you commit (upload) to Github:
-Login to your GitHub account
-Go to Settings > Emails
-Check "Keep my email address private"
+a. Login to your GitHub account
+b. Go to Settings > Emails
+c. heck "Keep my email address private"
 
 GitHub will provide you with a temporary email address under the paragraph "Keep my email address private". The noreply email has the form 12345678+username@users.noreply.github.com
 ```console
@@ -50,8 +52,9 @@ Check your email is set
 ```console
 $ git config --global user.mail
 ```
-[Online help](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
-[No-Reply Email](https://help.github.com/articles/about-commit-email-addresses/)
+Help:
+
+[Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
 [About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
 
 ## Create a copy (clone) of the repository on your computer
