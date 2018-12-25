@@ -12,8 +12,7 @@ If you already have a GitHub account, login to your account
 5. Click on "Add a license" button to select a license for your repository
 6. Click on "Create a Repository" button to create your repository
 
-GitHub Help:
-
+GitHub Help:    
 [Create a repository](https://help.github.com/articles/create-a-repo/)
 
 ## Setup git on your computer
@@ -54,10 +53,8 @@ Check your email is set
 ```console
 $ git config --global user.mail
 ```
-GitHub Help:
-
-[Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
-
+GitHub Help:    
+[Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
 [About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
 
 ## Create a copy (clone) of the repository on your computer
