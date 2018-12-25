@@ -1,4 +1,4 @@
-## Install git on your computer
+## Install Git Command Line Interface on your computer
 
 ### Linux CentOS 7
 
@@ -12,7 +12,7 @@ $ sudo yum update
 ```console
 $ sudo yum install git
 ```
-4. Check git is installed and with latest version
+4. Check the installed version of git
 ```console
 $ git --version
 ```
@@ -30,16 +30,16 @@ $ sudo apt upgrade
 ```console
 $ sudo apt install git
 ```
-4. Check git is installed and with latest version
+4. Check the installed version of git
 ```console
 $ git --version
 ```
 ### macOS
-Install the Xcode Command Line Tools
+1. Install the Xcode Command Line Tools
 ```console
 $ xcode-select --install
 ```
-Check if git is installed
+2. Check the installed version of git
 ```console
 $ git --version
 ```
