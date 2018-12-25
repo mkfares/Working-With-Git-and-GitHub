@@ -12,7 +12,9 @@ If you already have a GitHub account, login to your account
 5. Click on "Add a license" button to select a license for your repository
 6. Click on "Create a Repository" button to create your repository
 
-Help: [Create a repository](https://help.github.com/articles/create-a-repo/)
+GitHub Help:
+
+[Create a repository](https://help.github.com/articles/create-a-repo/)
 
 ## Setup git on your computer
 1. Check if git is installed
@@ -52,16 +54,17 @@ Check your email is set
 ```console
 $ git config --global user.mail
 ```
-Help:
+GitHub Help:
 
 [Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
+
 [About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
 
 ## Create a copy (clone) of the repository on your computer
 1. Login to your GitHub account
 2. Open the main page of the repository to clone
 3. Click on "Clone or download" green button
-4. click on the copy icon under "Clone with HTTPS"
+4. Click on the copy icon under "Clone with HTTPS"
 
 5. On your computer, open the Terminal window
 6. Change to your home directory or to any directory where you want to create your repository
