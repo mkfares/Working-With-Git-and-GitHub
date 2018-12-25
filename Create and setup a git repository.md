@@ -1,7 +1,7 @@
 ## Create an account on GitHub
 [GitHub Sign Up](https://github.com/)
 
-If you already have a GitHub account, login to your account
+If you already have a GitHub account, login to your account    
 [GitHub Login](https://github.com/login)
 
 ## Create a new GitHub repository
