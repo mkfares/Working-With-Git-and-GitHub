@@ -1,4 +1,5 @@
 ## Create an account on GitHub
+To create a new account on GitHub, follow the link    
 [GitHub Sign Up](https://github.com/)
 
 If you already have a GitHub account, login to your account    
