@@ -8,7 +8,7 @@
     ```console
     $ git remote -v
     ```
-  Set the remote origin if it is not already set
+    Set the remote origin if it is not already set
     ```console
     $ git remote add origin https://github.com/username/myrepository.git
     $ git remote -v
@@ -18,7 +18,7 @@ GitHub Help:
 [Managing a remote](https://help.github.com/categories/managing-remotes/)
 
 3. Save your changes to the your GitHub repository  
-  You will need to issue the following command after your create new files or you make changes to existing files.
+    You will need to issue the following command after your create new files or you make changes to existing files.
 
 a. Stage the changes
     ```console
