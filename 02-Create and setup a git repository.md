@@ -40,9 +40,9 @@ GitHub Help:
     ```
     Setup commit email address for all repositories on your computer
 
-    To keep your email address hidden when you commit (upload) to Github:
-    a. Login to your GitHub account
-    b. Go to Settings > Emails
+    To keep your email address hidden when you commit (upload) to Github:  
+    a. Login to your GitHub account  
+    b. Go to Settings > Emails  
     c. heck "Keep my email address private"
 
     GitHub will provide you with a temporary email address under the paragraph "Keep my email address private". The noreply email has the form 12345678+username@users.noreply.github.com
@@ -54,7 +54,7 @@ GitHub Help:
     Check your email is set
     ```console
     $ git config --global user.mail
-```
+    ```
 GitHub Help:    
 [Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
 [About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
@@ -67,10 +67,10 @@ GitHub Help:
 
 5. On your computer, open the Terminal window
 6. Change to your home directory or to any directory where you want to create your repository
-```console
-$ cd
-```
+    ```console
+    $ cd
+    ```
 7. type the command git clone and paste the URL you copied from GitHub
-```console
-$ git clone https://github.com/mkfares/Working-With-Git-and-GitHub.git
-```
+    ```console
+    $ git clone https://github.com/mkfares/Working-With-Git-and-GitHub.git
+    ```
