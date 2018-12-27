@@ -20,15 +20,15 @@ GitHub Help:
 3. Save your changes to the your GitHub repository   
     You will need to issue the following command after your create new files or you make changes to existing files.
 
-a. Stage the changes
+    a. Stage the changes
     ```console
     $ git add -A
     ```
-b. Commit the changes
+    b. Commit the changes
     ```console
     $ git commit -m "provide a meaningful message"
     ```
-c. Push the changes to your GitHub repository
+    c. Push the changes to your GitHub repository
     ```console
     $ git push origin master
     ```
