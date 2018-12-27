@@ -1,9 +1,9 @@
 ## Create an account on GitHub
-To create a new account on GitHub, follow the link    
-[GitHub Sign Up](https://github.com/)
+1. To create a new account on GitHub, follow the link    
+    [GitHub Sign Up](https://github.com/)
 
-If you already have a GitHub account, login to your account    
-[GitHub Login](https://github.com/login)
+2. If you already have a GitHub account, login to your account    
+    [GitHub Login](https://github.com/login)
 
 ## Create a new GitHub repository
 1. Click on the plus sign located on the top right of the page
