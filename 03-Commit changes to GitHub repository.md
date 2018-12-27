@@ -17,7 +17,7 @@ GitHub Help:
 [Adding a remote](https://help.github.com/articles/adding-a-remote/)    
 [Managing a remote](https://help.github.com/categories/managing-remotes/)
 
-3. Save your changes to the your GitHub repository  
+3. Save your changes to the your GitHub repository   
     You will need to issue the following command after your create new files or you make changes to existing files.
 
 a. Stage the changes
