@@ -45,8 +45,9 @@
     ```
 
 ### Windows 10
-    Download and install Git for windows. It offers a terminal (bash) on windows.    
-    [Git for Windows](https://gitforwindows.org/)
 
-    GitHub Help:    
-    [Install git the easy way](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+  Download and install Git for windows. It offers a terminal (bash) on windows.    
+  [Git for Windows](https://gitforwindows.org/)
+
+  GitHub Help:    
+  [Install git the easy way](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
