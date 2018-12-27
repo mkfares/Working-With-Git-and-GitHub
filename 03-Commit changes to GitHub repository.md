@@ -1,7 +1,7 @@
 ## Commit changes to your GitHub repository
 
 1. On your computer, open the Terminal window and go to your repository directory
-    ```
+    ```console
     $ cd myrepository
     ```
 2. Check whether your remote origin (i.e. your GitHub repository) is set
