@@ -52,16 +52,15 @@
     ```console
     $ git config --global user.mail
     ```
-GitHub Help:    
-[Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
-[About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
+    GitHub Help:    
+    [Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
+    [About commit email addresses](https://help.github.com/articles/about-commit-email-addresses/)
 
 ## Create a copy (clone) of the repository on your computer
 1. Login to your GitHub account
 2. Open the main page of the repository to clone
 3. Click on "Clone or download" green button
 4. Click on the copy icon under "Clone with HTTPS"
-
 5. On your computer, open the Terminal window
 6. Change to your home directory or to any directory where you want to create your repository
     ```console
