@@ -23,36 +23,37 @@ GitHub Help:
     $ git --version
     ```
 
-In case git is not installed on your system, check the help on how to install git on your specific operating system.
+    In case git is not installed on your system, check the help on how to install git on your specific operating system.
 
-2. Setup the username for all repositories on your computer
-Open a terminal window and type the commands
-```console
-$ cd
-$ git config --global user.name "myname"
-```
-The name provided between the double quotes does not have to be the same as your name or username on GitHub.
+2. Setup the username for all repositories on your computer  
+   Open a terminal window and type the commands
+    ```console
+    $ cd
+    $ git config --global user.name "myname"
+    ```
 
-Check your name is set
-```console
-$ git config --global user.name
-```
-Setup commit email address for all repositories on your computer
+    The name provided between the double quotes does not have to be the same as your name or username on GitHub.
 
-To keep your email address hidden when you commit (upload) to Github:
-a. Login to your GitHub account
-b. Go to Settings > Emails
-c. heck "Keep my email address private"
+    Check your name is set
+    ```console
+    $ git config --global user.name
+    ```
+    Setup commit email address for all repositories on your computer
 
-GitHub will provide you with a temporary email address under the paragraph "Keep my email address private". The noreply email has the form 12345678+username@users.noreply.github.com
-```console
-$ git config --global user.mail "12345678+username@users.noreply.github.com"
-```
-Make sure to change the number and the username to match yours.
+    To keep your email address hidden when you commit (upload) to Github:
+    a. Login to your GitHub account
+    b. Go to Settings > Emails
+    c. heck "Keep my email address private"
 
-Check your email is set
-```console
-$ git config --global user.mail
+    GitHub will provide you with a temporary email address under the paragraph "Keep my email address private". The noreply email has the form 12345678+username@users.noreply.github.com
+    ```console
+    $ git config --global user.mail "12345678+username@users.noreply.github.com"
+    ```
+    Make sure to change the number and the username to match yours.
+
+    Check your email is set
+    ```console
+    $ git config --global user.mail
 ```
 GitHub Help:    
 [Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
