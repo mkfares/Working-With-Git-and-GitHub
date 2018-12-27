@@ -1,9 +1,7 @@
 ## Create an account on GitHub
-1. To create a new account on GitHub, follow the link    
-    [GitHub Sign Up](https://github.com/)
+1. To create a new account on GitHub, follow the link [GitHub Sign Up](https://github.com/)
 
-2. If you already have a GitHub account, login to your account    
-    [GitHub Login](https://github.com/login)
+2. If you already have a GitHub account, login to your account through [GitHub Login](https://github.com/login)
 
 ## Create a new GitHub repository
 1. Click on the plus sign located on the top right of the page
@@ -13,8 +11,8 @@
 5. Click on "Add a license" button to select a license for your repository
 6. Click on "Create a Repository" button to create your repository
 
-GitHub Help:    
-[Create a repository](https://help.github.com/articles/create-a-repo/)
+    GitHub Help:    
+    [Create a repository](https://help.github.com/articles/create-a-repo/)
 
 ## Setup git on your computer
 1. Check if git is installed  
@@ -22,7 +20,6 @@ GitHub Help:
     ```console
     $ git --version
     ```
-
     In case git is not installed on your system, check the help on how to install git on your specific operating system.
 
 2. Setup the username for all repositories on your computer  
