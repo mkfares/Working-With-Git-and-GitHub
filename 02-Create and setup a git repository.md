@@ -44,13 +44,13 @@
 
     GitHub will provide you with a temporary email address under the paragraph "Keep my email address private". The noreply email has the form 12345678+username@users.noreply.github.com
     ```console
-    $ git config --global user.mail "12345678+username@users.noreply.github.com"
+    $ git config --global user.email "12345678+username@users.noreply.github.com"
     ```
     Make sure to change the number and the username to match yours.
 
     Check your email is set
     ```console
-    $ git config --global user.mail
+    $ git config --global user.email
     ```
     GitHub Help:    
     [Setting your commit email address in git](https://help.github.com/articles/setting-your-commit-email-address-in-git/)    
