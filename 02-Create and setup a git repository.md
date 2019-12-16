@@ -66,7 +66,7 @@
     ```console
     $ cd
     ```
-7. type the command git clone and paste the URL you copied from GitHub
+7. Type the command git clone and paste the URL you copied from GitHub
     ```console
     $ git clone https://github.com/mkfares/Working-With-Git-and-GitHub.git
     ```
